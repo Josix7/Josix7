@@ -1,11 +1,5 @@
 ## Hi there 👋
-
-
-**Josix7/Josix7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # Hi, I'm Jose Luis Hernandez 👋  
-**Full-Stack Developer | Tech Enthusiast**
 
 ## My Tech Stack
 
@@ -21,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/joseluishernandezii/)
 
 ## My GitHub Trophies
 
